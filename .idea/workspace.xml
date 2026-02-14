@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="386fff7a-915e-4bfa-aa16-c66f358fd4f1" name="Changes" comment="" />
+    <list default="true" id="386fff7a-915e-4bfa-aa16-c66f358fd4f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question 12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question 7,8,9,10,11.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -17,7 +41,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.question 12.executor": "Run",
+    "Python.question 2.executor": "Run",
+    "Python.question 3.executor": "Run",
+    "Python.question 4.executor": "Run",
+    "Python.question 5.executor": "Run",
+    "Python.question 6.executor": "Run",
+    "Python.question 7 and 8.executor": "Run",
+    "Python.question 7,8,9,10.executor": "Run",
+    "Python.question 7,8,9.executor": "Run",
+    "Python.question 7.executor": "Run",
+    "Python.question 8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
